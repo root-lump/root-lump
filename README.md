@@ -21,6 +21,6 @@ Collaborative Projects
 
 <p align="center">
  <a href="https://github.com/shngmsw/ikabu" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shngmsw&repo=ikabu&show_owner=true" alt="ikabu" height="width=45%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shngmsw&repo=ikabu&show_owner=true" alt="ikabu" width=45%">
  </a>
 </p>
