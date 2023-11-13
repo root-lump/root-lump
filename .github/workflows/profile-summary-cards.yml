@@ -29,3 +29,10 @@ jobs:
           EXCLUDE: ""
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
           AUTO_PUSH: true
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
