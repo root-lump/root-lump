@@ -12,19 +12,15 @@ Profile Cards
     <img src="https://raw.githubusercontent.com/root-lump/root-lump/master/profile-summary-card-output/github/2-most-commit-language.svg" width="45%" /><br>
    <br>
    <picture>
-     <source
-       alt="GitHub-Mark-Dark"
-       srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-     />
-     <source
-       alt="GitHub-Mark-Light"
-       srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg#gh-light-mode-only"
-     />
-     <img
-       alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg"
-       width="90%"
-     />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+    />
+    <source
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+    />
+    <img alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg&theme=default">
    </picture>
   </a>
  </p>
