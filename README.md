@@ -11,11 +11,23 @@ Profile Cards
     <img src="https://raw.githubusercontent.com/root-lump/root-lump/master/profile-summary-card-output/github/1-repos-per-language.svg" width="45%" />
     <img src="https://raw.githubusercontent.com/root-lump/root-lump/master/profile-summary-card-output/github/2-most-commit-language.svg" width="45%" /><br>
    <br>
-    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg" width="90%"/>
-     <img alt="github-snake" src="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg" width="90%"/>
-    </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake-dark.svg"
+    width="90%"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg"
+    width="90%"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/root-lump/root-lump/output/github-contribution-grid-snake.svg"
+    width="90%"
+  />
+</picture>
   </a>
  </p>
 <br>
