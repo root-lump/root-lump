@@ -29,26 +29,3 @@ Profile Cards
   </a>
  </p>
 <br>
-
-<H1 ALIGN="center">
-Projects
-</H1>
-
-<p align="center">
- <a href="https://github.com/root-lump/DatePlus" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=root-lump&repo=DatePlus&show_owner=true" alt="DatePlus" width=45%">
- </a>
- <a href="https://github.com/root-lump/Discord-VC-Tools" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=root-lump&repo=Discord-VC-Tools&show_owner=true" alt="Discord VC Tools" width=45%">
- </a>
-</p>
-
-<H1 ALIGN="center">
-Collaborative Projects
-</H1>
-
-<p align="center">
- <a href="https://github.com/shngmsw/ikabu" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shngmsw&repo=ikabu&show_owner=true" alt="ikabu" width=45%">
- </a>
-</p>
